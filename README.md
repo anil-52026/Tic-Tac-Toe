@@ -18,5 +18,21 @@ This is a classic Tic-Tac-Toe game developed with React alongside HTML, CSS, and
 2. The first player to connect three symbols in a line wins.
 3. If all cells are filled with no winner, the game declares a draw.
 
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   https://github.com/anil-52026/Tic-Tac-Toe.git
+   
+2. **Install dependencies**:
+   ```bash
+   npm install
+
+3. **Run the application**:
+   ```bash
+   npm run dev
+
 
 
